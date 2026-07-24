@@ -144,7 +144,7 @@ After training, the model can be evaluated using:
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Face-Mask-Detection.git
+git clone https://github.com/MuweenM/Fask-Mask-detection.git
 ```
 
 Navigate into the project
