@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Anaconda / local environment
+anaconda_projects/
+.conda/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Machine learning artifacts
+*.pt
+*.pth
+*.h5
+*.keras
+*.pb
+*.onnx
+*.model
+*.weights
+checkpoints/
+runs/
+outputs/
+wandb/
+mlruns/
