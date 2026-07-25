@@ -2,6 +2,9 @@
 
 A Deep Learning-based Face Mask Detection system built using **TensorFlow/Keras**, **OpenCV**, and **VGG16 Transfer Learning**. The model classifies whether a person is **wearing a face mask** or **not wearing a face mask** from an input image.
 
+
+
+
 ---
 
 ## 📌 Project Overview
@@ -16,6 +19,11 @@ The dataset contains two classes:
 The model is trained on resized face images (224 × 224 pixels) and can later be used for real-time face mask detection with a webcam.
 
 ---
+
+
+
+<img width="1008" height="579" alt="gitt1" src="https://github.com/user-attachments/assets/65564034-cb59-45be-bd73-b2d3c086cff0" />
+
 
 ## 🚀 Features
 
