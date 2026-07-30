@@ -22,7 +22,7 @@ The model is trained on resized face images (224 × 224 pixels) and can later be
 
 
 
-<img width="1008" height="579" alt="gitt1" src="https://github.com/user-attachments/assets/65564034-cb59-45be-bd73-b2d3c086cff0" />
+
 
 
 ## 🚀 Features
